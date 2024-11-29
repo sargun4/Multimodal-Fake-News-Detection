@@ -1,9 +1,3 @@
-Here's a comprehensive 
-
-README.md
-
- file for your repository:
-
 # Multimodal Fake News Detection System
 
 This repository contains a machine learning system for detecting fake news using a multimodal approach that combines text analysis, image processing, and ensemble methods.
